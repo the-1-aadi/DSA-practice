@@ -17,3 +17,8 @@ correct spot.
 TC: O(n^2)-> avg., worst case, O(n)-> best case
 SC: O(1)
 
+### Merge_sort.cpp
+sorting using recursion, divind the array into half each time and then entering
+each element in correct order back into the main array.
+TC: O(n*log2 (n))-> worst case
+SC: O(n) -> worst case
